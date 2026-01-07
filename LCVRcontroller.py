@@ -14,7 +14,7 @@ import sys
 from ctypes import *
 from ctypes.wintypes import *
 
-
+#comments
 class D5020(object):
     #Device variables
     usb_pid = c_uint(5020) #Device PID for D5020
